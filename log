@@ -1,0 +1,76 @@
+[
+  {
+    "appServicePlanId": "/subscriptions/cbb01648-30ca-4455-809b-2a279e36285d/resourceGroups/testkx-app-service/providers/Microsoft.Web/serverfarms/testkx-app-service-plan",
+    "availabilityState": "Normal",
+    "clientAffinityEnabled": true,
+    "clientCertEnabled": false,
+    "clientCertExclusionPaths": null,
+    "cloningInfo": null,
+    "containerSize": 0,
+    "dailyMemoryTimeQuota": 0,
+    "defaultHostName": "testksx-app-services.chinacloudsites.cn",
+    "enabled": true,
+    "enabledHostNames": [
+      "testksx-app-services.chinacloudsites.cn",
+      "testksx-app-services.scm.chinacloudsites.cn"
+    ],
+    "geoDistributions": null,
+    "hostNameSslStates": [
+      {
+        "hostType": "Standard",
+        "ipBasedSslResult": null,
+        "ipBasedSslState": "NotConfigured",
+        "name": "testksx-app-services.chinacloudsites.cn",
+        "sslState": "Disabled",
+        "thumbprint": null,
+        "toUpdate": null,
+        "toUpdateIpBasedSsl": null,
+        "virtualIp": null
+      },
+      {
+        "hostType": "Repository",
+        "ipBasedSslResult": null,
+        "ipBasedSslState": "NotConfigured",
+        "name": "testksx-app-services.scm.chinacloudsites.cn",
+        "sslState": "Disabled",
+        "thumbprint": null,
+        "toUpdate": null,
+        "toUpdateIpBasedSsl": null,
+        "virtualIp": null
+      }
+    ],
+    "hostNames": [
+      "testksx-app-services.chinacloudsites.cn"
+    ],
+    "hostNamesDisabled": false,
+    "hostingEnvironmentProfile": null,
+    "httpsOnly": false,
+    "hyperV": false,
+    "id": "/subscriptions/cbb01648-30ca-4455-809b-2a279e36285d/resourceGroups/testksx-app-services/providers/Microsoft.Web/sites/testksx-app-services",
+    "identity": null,
+    "inProgressOperationId": null,
+    "isDefaultContainer": null,
+    "isXenon": false,
+    "kind": "app",
+    "lastModifiedTimeUtc": "2019-05-22T15:41:37.200000",
+    "location": "China East 2",
+    "maxNumberOfWorkers": null,
+    "name": "testksx-app-services",
+    "outboundIpAddresses": "40.73.101.203,40.73.101.120,40.73.101.116,40.73.101.115,40.73.101.51",
+    "possibleOutboundIpAddresses": "40.73.101.203,40.73.101.120,40.73.101.116,40.73.101.115,40.73.101.51",
+    "redundancyMode": "None",
+    "repositorySiteName": "testksx-app-services",
+    "reserved": false,
+    "resourceGroup": "testksx-app-services",
+    "scmSiteAlsoStopped": false,
+    "siteConfig": null,
+    "slotSwapStatus": null,
+    "state": "Running",
+    "suspendedTill": null,
+    "tags": null,
+    "targetSwapSlot": null,
+    "trafficManagerHostNames": null,
+    "type": "Microsoft.Web/sites",
+    "usageState": "Normal"
+  }
+]
